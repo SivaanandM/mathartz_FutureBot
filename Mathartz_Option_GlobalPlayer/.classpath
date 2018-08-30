@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/activemq-all-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/apache-mime4j-0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/h2-1.4.196.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/httpclient-4.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/httpcore-4.0-beta3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/httpmime-4.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/presto-d-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/PrestoESBClient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/spring-asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/spring-beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/spring-context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/spring-core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/spring-expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/spring-jms-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/spring-tx-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_Option_GlobalPlayer/ExLibrary/tinylog-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

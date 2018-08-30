@@ -1,0 +1,5 @@
+'Contract Bank here we are saving all head and player deals with'
+
+Create table TBL_Master_Contracts  (id bigint auto_increment, SECID varchar(50) not null, SYMBOL varchar(50) not null, EXCHANGE varchar(50) not null, INSTRUMENT varchar(50) not null, LOTSIZE varchar(50) not null, TICKSIZE varchar(50) not null, EXPDD varchar(50) not null, EXPMMMYY varchar(50) not null, OPTTYPE varchar(50) not null, STRIKE varchar(50) not null);
+
+Create table TBL_Master_Contracts  (id bigint auto_increment, SECID varchar(50) PRIMARY KEY not null, SYMBOL varchar(50) not null, EXCHANGE varchar(50) not null, INSTRUMENT varchar(50) not null, LOTSIZE varchar(50) not null, TICKSIZE varchar(50) not null, EXPDD varchar(50) not null, EXPMMMYY varchar(50) not null, OPTTYPE varchar(50) not null, STRIKE varchar(50) not null);

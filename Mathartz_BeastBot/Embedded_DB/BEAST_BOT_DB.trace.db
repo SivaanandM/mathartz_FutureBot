@@ -1,0 +1,9 @@
+2018-07-14 16:05:21 jdbc[10]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DROP FROM[*] TBL_MASTER_CONTRACTS "; expected "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE"; SQL statement:
+drop FROM TBL_MASTER_CONTRACTS [42001-196]
+2018-07-14 16:05:32 jdbc[10]: exception
+org.h2.jdbc.JdbcSQLException: Syntax error in SQL statement "DROP TBL_MASTER_CONTRACTS[*] "; expected "TABLE, INDEX, USER, SEQUENCE, CONSTANT, TRIGGER, VIEW, ROLE, ALIAS, SCHEMA, ALL, DOMAIN, TYPE, DATATYPE, AGGREGATE"; SQL statement:
+drop TBL_MASTER_CONTRACTS [42001-196]
+2018-07-14 16:05:49 jdbc[10]: exception
+org.h2.jdbc.JdbcSQLException: Table "TBL_MASTER_CONTRACTS" already exists; SQL statement:
+Create table TBL_Master_Contracts  (id bigint auto_increment, SECID varchar(50) not null, SYMBOL varchar(50) not null, EXCHANGE varchar(50) not null, INSTRUMENT varchar(50) not null, LOTSIZE varchar(50) not null, TICKSIZE varchar(50) not null, EXPDD varchar(50) not null, EXPMMMYY varchar(50) not null, OPTTYPE varchar(50) not null, STRIKE varchar(50) not null) [42101-196]
