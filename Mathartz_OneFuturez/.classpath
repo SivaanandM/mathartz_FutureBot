@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/activemq-all-5.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/apache-mime4j-0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/h2-1.4.196.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/httpclient-4.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/httpcore-4.0-beta3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/httpmime-4.0-beta2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/presto-d-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/PrestoESBClient.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/spring-asm-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/spring-beans-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/spring-context-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/spring-core-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/spring-expression-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/spring-jms-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/spring-tx-3.0.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/findc06/Desktop/Workspace/Mathartz_OneFuturez/ExLibrary/tinylog-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
